@@ -85,4 +85,3 @@ alias c='clear'
 # Shell integration
 eval "$(fzf --zsh)"
 eval "$(zoxide init --cmd cd zsh)"
-
