@@ -2,6 +2,8 @@
 
 Personal dotfiles managed with GNU Stow. These configuration files create a clean, minimalist development environment with a focus on productivity and aesthetics.
 
+![Terminal Preview](assets/term.png)
+
 ## Requirements
 
 - GNU Stow
