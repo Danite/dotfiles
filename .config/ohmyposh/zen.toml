@@ -3,7 +3,7 @@ version = 3
 final_space = true
 
 [palette]
-  black = '#2D2B40'      # Deeper, softer dark shade
+  black = '#1A1826'      # Darker, more intense shade
   blue = '#89B4FA'       # Softer, more pastel blue
   green = '#A6E3A1'      # Muted sage green
   grey = '#9399B2'       # Soft, muted grey with slight blue undertone
